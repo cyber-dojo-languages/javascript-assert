@@ -1,7 +1,7 @@
 'use strict';
 
-let answer  = require('./hiker.js');
-let assert = require('assert');
+const answer  = require('./hiker.js');
+const assert = require('assert');
 
 assert.equal(answer(), 42 );
 
