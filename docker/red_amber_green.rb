@@ -1,8 +1,9 @@
 
 lambda { |stdout,stderr,status|
   output = stdout + stderr
-  return :amber if /^(\d+) error/.match(output)
-  return :red   if /AssertionError/.match(output)
+  js_hint_pattern = /^(\d+) error(s?)/
+  return :amber if js_hint_pattern.match(output)
+  return :red   if /^AssertionError/.match(output)
   return :green if /^All tests passed/.match(output)
   return :amber
 }
