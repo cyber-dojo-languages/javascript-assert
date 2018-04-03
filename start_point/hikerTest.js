@@ -5,6 +5,9 @@ const assert = require('assert');
 
 assert.equal(answer(), 42 );
 
-// Do not remove this line.
-// It is the green-traffic-light pattern.
-console.log('All tests passed');
+// - - - - - - - - - - - - - - - - - - - - - -
+
+const greenTrafficLightPattern = function() {
+  return 'All tests passed';
+};
+console.log(greenTrafficLightPattern());
