@@ -1,9 +1,9 @@
 'use strict';
 
-const answer  = require('./hiker.js');
+const hiker = require('./hiker.js');
 const assert = require('assert');
 
-assert.equal(answer(), 42 );
+assert.equal(hiker.answer(), 42 );
 
 // - - - - - - - - - - - - - - - - - - - - - -
 
