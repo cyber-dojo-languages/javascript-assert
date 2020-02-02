@@ -1,4 +1,3 @@
-
 [![CircleCI](https://circleci.com/gh/cyber-dojo-languages/javascript-assert.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/javascript-assert)
 
 ## display_name="Javascript, assert"
