@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/javascript-assert.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/javascript-assert)
+[![Github Action (main)](https://github.com/cyber-dojo-languages/javascript-assert/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-languages/javascript-assert/actions)
 
-## display_name="Javascript, assert"
-## image_name="cyberdojofoundation/javascript_node_assert"
+## display_name="Javascript 23.1.0, assert"
+## image_name="ghcr.io/cyber-dojo-languages/javascript_node_assert"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
