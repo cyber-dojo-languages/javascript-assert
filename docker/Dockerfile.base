@@ -1,2 +1,2 @@
-FROM ghcr.io/cyber-dojo-languages/javascript-node:14d6b57
+FROM ghcr.io/cyber-dojo-languages/javascript-node:04531dc
 LABEL maintainer=jon@jaggersoft.com
